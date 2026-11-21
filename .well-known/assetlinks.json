@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.samuel_leroy.twa",
+        "sha256_cert_fingerprints": ["70:F9:26:85:49:7A:78:AA:35:BA:89:CF:F3:71:A0:BD:F8:44:E8:A7:D5:97:5D:3B:02:64:22:8A:46:ED:B0:AC"]
+      }
+    }]
